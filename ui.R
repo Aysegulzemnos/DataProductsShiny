@@ -8,7 +8,7 @@
 #
 
 library(markdown)
-shinyUI(navbarPage("Choose your car trim",
+shinyUI(navbarPage("Choose your car properties",
                    tabPanel("Home",
                             # Sidebar
                             sidebarLayout(
