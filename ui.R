@@ -7,8 +7,9 @@
 #    http://shiny.rstudio.com/
 #
 
+
 library(markdown)
-shinyUI(navbarPage("Choose your car properties",
+shinyUI(navbarPage("Choose your next Mercedes-Benz",
                    tabPanel("Home",
                             # Sidebar
                             sidebarLayout(
